@@ -1,0 +1,14 @@
+*__pycache__
+instance
+venv
+.pytest_cache
+.history
+.vscode
+*.log
+Procfile
+prod_run.sh
+app.yaml
+service_key.json
+main.py
+cloud-sql-proxy
+node_modules
